@@ -6,7 +6,7 @@ Hey guys I just made a simple Python online IDE run in browser : https://react-p
 
 100+ Python challenge programming exercises.
 
-## 100+ Python Projects Challenge 
+## 100+ Python Projects Classes 
 
 https://www.w3schools.com/python/
 
