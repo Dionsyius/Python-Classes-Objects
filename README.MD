@@ -5,9 +5,9 @@ currentMenu: videos
 
 ## Getting Started
 
-[Java Skill Track Overview](java-skill-track-overview/)
+[Python Track Overview](java-skill-track-overview/)
 
-[Intro to IntelliJ](intro-to-intellij/)
+[Intro to Python](intro-to-intellij/)
 
 [Debugging in IntelliJ](debugging-in-intellij/)
 
