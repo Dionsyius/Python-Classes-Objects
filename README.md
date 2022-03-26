@@ -98,6 +98,6 @@ This set of lessons is for programmers that are comfortable with Python but are 
     - [Benefits of Using Interfaces](classes-and-objects-interfaces/#benefits-of-using-interfaces)
 1. [Naming Conventions](naming-conventions/)
 
-Some content from [*Java for Python Programmers*](https://github.com/RunestoneInteractive/Java4Python) by [Brad Miller](https://github.com/RunestoneInteractive/), used under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
+Some content from [*Java for Python Programmers*](https://www.w3schools.com/python/) by [PICO CTF](https://www.w3schools.com/python/), used under [CC BY 3.0](https://w3schools.com/licenses/by/3.0/).
 
 
